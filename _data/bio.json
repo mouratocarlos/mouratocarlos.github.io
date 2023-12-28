@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Carlos Mourato",
+    "label": "Software Engineer",
+    "picture": "https://github.com/mouratocarlos.png",
+    "email": "carloshmourato@gmail.com",
+    "phone": "+55 62 98467-2916",
+    "website": "https://mouratocarlos.github.io",
+    "summary": "I am a technology enthusiast, passionate about the art of programming. With over five years of experience in the field, I focus my expertise on software development, with contributions in the banking, financial, and management sectors.",
+    "location": { "address": "", "postalCode": "76386-500", "city": "Goianésia", "countryCode": "BR", "region": "Goiás" },
+    "profiles": [
+      { "network": "github", "username": "mouratocarlos", "url": "http://github.com/mouratocarlos" },
+      { "network": "linkedin", "username": "mouratocarlos", "url": "http://linkedin.com/in/mouratocarlos" },
+      { "network": "youtube", "username": "mouratocarlos", "url": "http://youtube.com/@mouratocarlos" }
+    ]
+  },
+  "interests": [
+    { "name": "Back-end" },
+    { "name": "Front-end" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Angular", "Delphi" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Linux", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNOPAR - Universidade Norte do Paraná",
+      "area": "Analysis and Systems Development",
+      "studyType": "B.S.",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-30",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Minsait",
+      "position": "Angular | Java Developer",
+      "website": "",
+      "startDate": "2023-01-12",
+      "endDate": "Present",
+      "summary": "Full Stack Developer at Banco do Brasil",
+      "highlights": [
+        "Analyze, develop and implement demands from the front-end and back-end of the Derivatives team, delivering solutions and better experiences to bank users in individual self-service via mobile and web",
+        "Optimize efficiency for the bank's employees through the back-office system, the BB Platform"
+      ]
+    },
+    {
+      "company": "Protec Sistemas",
+      "position": "Delphi Developer",
+      "website": "",
+      "startDate": "2021-11-08",
+      "endDate": "Present",
+      "summary": "Delphi Developer Freelancer at Protec Sistemas",
+      "highlights": [
+        "Analyze, develop and implement the new customer management system focusing on care and funeral plans and services, making this system available on desktop and web platforms"
+      ]
+    },
+    {
+      "company": "Globalweb Outsourcing",
+      "position": "Angular | Java Developer",
+      "website": "",
+      "startDate": "2022-06-02",
+      "endDate": "2023-01-01",
+      "summary": "Full Stack Developer at Caixa Econômica Federal bank.",
+      "highlights": [
+        "Analyze, develop and implement front-end and back-end demands of various public portals and internal systems"
+      ]
+    },
+    {
+      "company": "Globalweb Outsourcing",
+      "position": "Java Developer",
+      "website": "",
+      "startDate": "2021-07-12",
+      "endDate": "2022-06-01",
+      "summary": "Full Stack Developer at BRB Bank",
+      "highlights": [
+        "Analyze, develop, implement and document back-end demands of the BRB Mobile and Nação BRB FLA applications",
+        "Full-Stack development of a back-office web system, focused on controlling and managing the opening of bank accounts"
+      ]
+    }
+  ]
+}
