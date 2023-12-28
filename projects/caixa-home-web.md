@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image:  img/caixa-home-web.png
+image:  img/caixa-home-web.jpeg
 title: Caixa Econômica Federal
 date: 2022
 labels:
