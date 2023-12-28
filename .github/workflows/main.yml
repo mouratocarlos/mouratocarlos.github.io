@@ -22,6 +22,8 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
       - name: Build & Deploy to GitHub Pages
         uses: helaili/jekyll-action@2.5.0
         with:
