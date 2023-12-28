@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image:  img/pyxis-desktop.png
+image:  img/pyxis-desktop.jpg
 title: Protec Sistemas
 date: 2023
 labels:
