@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image:  img/caixa-home-web.jpg
+image:  img/caixa-cultural-mobile.jpg
 title: Caixa Cultural
 date: 2022
 labels:
