@@ -25,5 +25,5 @@ jobs:
       - name: Build & Deploy to GitHub Pages
         uses: helaili/jekyll-action@2.5.0
         with:
-          token: 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
+          token: ${{ secrets.TOKEN }}
           target_branch: gh-pages
