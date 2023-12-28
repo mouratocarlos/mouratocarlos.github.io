@@ -5,6 +5,8 @@ title: Carlos Mourato | Professional Portfolio
 url: "https://mouratocarlos.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
+# Add the following line with your correct GitHub username and repository name
+repository: mouratocarlos/mouratocarlos.github.io
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
