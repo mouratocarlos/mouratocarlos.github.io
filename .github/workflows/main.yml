@@ -17,8 +17,11 @@ jobs:
         with:
           ruby-version: 2.7.3
 
-      - name: Install Bundler
-        run: gem install bundler
+      - name: Update Rubygems
+        run: gem update --system
+
+      - name: Install Bundler 2.4.22
+        run: gem install bundler -v 2.4.22
 
       - name: Bundler Cache
         uses: actions/cache@v2
