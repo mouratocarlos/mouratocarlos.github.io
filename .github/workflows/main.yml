@@ -33,6 +33,9 @@ jobs:
         with:
           pattern: "\\bio.json$"
 
+      - name: Install Jekyll and Dependencies
+        run: bundle install
+
       - name: Build Jekyll Site
         run: bundle exec jekyll build
 
